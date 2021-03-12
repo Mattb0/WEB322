@@ -1,8 +1,8 @@
 
 /*Main container*/
 .maincont{
-    border-style: solid;
-    border-width: 1px;
+	border-style: solid;
+	border-width: 1px;
 	margin-left: 10px;
 	width: 1060px;
 	padding-bottom:0px;
@@ -18,10 +18,10 @@
 
 /*Top left corner title & container*/
 .titlecont{
-border-width: 0px;
-margin-left:0px;
-width: 150px;
-height:170px;
+	border-width: 0px;
+	margin-left:0px;
+	width: 150px;
+	height:170px;
 	
 }
 
@@ -29,7 +29,7 @@ height:170px;
 	font-size: 200%;
 	/*font-style: italic;*/
 	color: gray;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 	padding-top: 0px;
 	margin-top:-35px;
 	margin-left:15px;
@@ -38,8 +38,8 @@ height:170px;
 
 /*Top Left Phone Number Section*/
 .ruler{
-    border-style: solid;
-    border-width: 1px;
+	border-style: solid;
+	border-width: 1px;
 	margin-left: 0px;
 	width: 290px;
 	height:10px;
@@ -49,8 +49,8 @@ height:170px;
 
 }
 .ruler2{
-    border-style: solid;
-    border-width: 1px;
+	border-style: solid;
+	border-width: 1px;
 	margin-left: 0px;
 	width: 310px;
 	height:10px;
@@ -61,7 +61,7 @@ height:170px;
 
 /*Left Center Price Table */
 table, th, td {
-    border: 1px solid black;
+	border: 1px solid black;
 	margin-left:20px;
 	margin-top:6px;
 	
@@ -69,8 +69,8 @@ table, th, td {
 
 /*Inner Cont for elements*/
 .innercont{
-    border-style: solid;
-    border-width: 1px;
+	border-style: solid;
+	border-width: 1px;
 	margin-left: 292px;
 	margin-top: -550px;
 	width: 750px;
@@ -79,8 +79,8 @@ table, th, td {
 }
 
 .innercontruler{
-    border-style: solid;
-    border-width: 1px;
+	border-style: solid;
+	border-width: 1px;
 	margin-left: 350px;
 	margin-top: 0px;
 	height: 600px;
@@ -96,16 +96,14 @@ table, th, td {
 	width: 180px;
 	height:20px;
 	border-style: solid;
-    border-width: 3px;
+	border-width: 3px;
 	background-color:  #00cc99;
 	color:white;
 	border-color:black;
 	text-shadow: 1px 2px #ff0000;
-    z-index: 10;
+	z-index: 10;
 	position: relative;   
-    font-weight: bold;
-
-
+	font-weight: bold;
 }
 
 .contpersonalinfo{
@@ -116,14 +114,14 @@ table, th, td {
 	width: 280px;
 	height:80px;
 	border-style: solid;
-    border-width: 3px;
+	border-width: 3px;
 	border-color:black;
 	border-top-color: #009966;
 	border-left-color:#009966;
-
 }
 
-.pname{
+.pname
+{
 	margin-top:10px;
 	margin-left:5px;
 	font-weight: bold;
@@ -143,16 +141,14 @@ table, th, td {
 	width: 260px;
 	height:20px;
 	border-style: solid;
-    border-width: 3px;
+	border-width: 3px;
 	background-color:  #00cc99;
 	color:white;
 	border-color:black;
 	text-shadow: 1px 2px #ff0000;
-    z-index: 10;
+	z-index: 10;
 	position: relative;   
 	font-weight: bold;
-
-
 }
 
 .propertycont{
@@ -162,32 +158,34 @@ table, th, td {
 	width: 310px;
 	height:290px;
 	border-style: solid;
-    border-width: 3px;
+	border-width: 3px;
 	border-color:black;
 	border-top-color: #009966;
 	border-left-color:#009966;
 	font-weight: bold;
-
 }
 
-.location{
-margin-top:7px;
+.location
+{
+	margin-top:7px;
 }
 
 	
-.propertyincome{
+.propertyincome
+{
 	margin-left:150px;
 	margin-top:-83px;
 }
 
-.propertytype{
+.propertytype
+{
 	margin-top:-4px;
 	margin-left:3px;
 	width: 310px;
 	height:50px;
 	font-weight:normal;
 	font-size:12px;
-	}
+}
 	
 /*Special instructions*/
 .specins{
@@ -196,24 +194,25 @@ margin-top:7px;
 	margin-top:-38px;
 	height:30px;
 	border-style: solid;
-    border-width: 3px;
+	border-width: 3px;
 	background-color:Khaki;
 	color:white;
 	border-color:black;
 	text-shadow: 1px 2px #ff0000;
-    z-index: 10;
+	z-index: 10;
 	background-color:  #00cc99;
-  position: relative;  
+	position: relative;  
 }	
 
-.contspec{
+.contspec
+{
 	padding-bottom:0px;
 	margin-left:-14px;
 	margin-top:100px;
 	width: 333px;
 	height:60px;
 	border-style: solid;
-    border-width: 3px;
+	border-width: 3px;
 	border-color:black;
 	border-top-color: #009966;
 	border-left-color:#009966;
@@ -232,12 +231,12 @@ margin-top:7px;
 	width: 240px;
 	height:20px;
 	border-style: solid;
-    border-width: 3px;
+	border-width: 3px;
 	background-color:  #00cc99;
 	color:white;
 	border-color:black;
 	text-shadow: 1px 2px #ff0000;
-    z-index: 10;
+	z-index: 10;
 	position: relative;   
 	font-weight: bold;
 }
@@ -246,7 +245,7 @@ margin-top:7px;
 	margin-left:356px;
 	margin-top:-2px;
 	border-style: solid;
-    border-width: 3px;
+	border-width: 3px;
 	width:340px;
 	height:150px;
 	border-top-color: #009966;
@@ -290,9 +289,10 @@ margin-top:7px;
 	margin-left:50px;
 }
 
-.ruler3{
-    border-style: solid;
-    border-width: 1px;	
+.ruler3
+{
+	border-style: solid;
+	border-width: 1px;	
 	width: 290px;
 	margin-left: -311px;
 	height:10px;
@@ -304,7 +304,7 @@ margin-top:7px;
 	margin-left:2px;
 	margin-top:-2px;
 	border-style: solid;
-    border-width: 3px;
+	border-width: 3px;
 	width:280px;
 	height:210px;
 	border-top-color: #009966;
@@ -335,7 +335,7 @@ margin-top:7px;
 	margin-left:356px;
 	margin-top:5px;
 	border-style: solid;
-    border-width: 3px;
+	border-width: 3px;
 	width:340px;
 	height:340px;
 	border-top-color: #009966;
@@ -346,7 +346,7 @@ margin-top:7px;
 
 /** MISC **//
 input[type='checkbox'] {
-  margin-left:20px;
+ 	margin-left:20px;
 }
 
 testMsg{
