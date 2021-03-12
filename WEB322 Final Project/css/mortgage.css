@@ -1,0 +1,367 @@
+
+/*Main container*/
+.maincont{
+    border-style: solid;
+    border-width: 1px;
+	margin-left: 10px;
+	width: 1060px;
+	padding-bottom:0px;
+	padding-top:0px;
+	margin-bottom:100px;
+	height: 650px;
+	background: #D3D3D3;
+	background: -webkit-linear-gradient(#FFFFFF, #D3D3D3);
+	background: -o-linear-gradient(#FFFFFF, #D3D3D3);
+	background: -moz-linear-gradient(#FFFFFF, #D3D3D3);
+	background: linear-gradient(#FFFFFF, #D3D3D3);
+}
+
+/*Top left corner title & container*/
+.titlecont{
+border-width: 0px;
+margin-left:0px;
+width: 150px;
+height:170px;
+	
+}
+
+.title{
+	font-size: 200%;
+	/*font-style: italic;*/
+	color: gray;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+	padding-top: 0px;
+	margin-top:-35px;
+	margin-left:15px;
+	text-shadow: 1px 2px #ff0000;
+}	
+
+/*Top Left Phone Number Section*/
+.ruler{
+    border-style: solid;
+    border-width: 1px;
+	margin-left: 0px;
+	width: 290px;
+	height:10px;
+	margin-top:-54px;
+	border-color:#003300;
+	background-color:#003300;
+
+}
+.ruler2{
+    border-style: solid;
+    border-width: 1px;
+	margin-left: 0px;
+	width: 310px;
+	height:10px;
+	margin-top:-35px;
+	border-color:#003300;
+	background-color:#003300;
+}
+
+/*Left Center Price Table */
+table, th, td {
+    border: 1px solid black;
+	margin-left:20px;
+	margin-top:6px;
+	
+}
+
+/*Inner Cont for elements*/
+.innercont{
+    border-style: solid;
+    border-width: 1px;
+	margin-left: 292px;
+	margin-top: -550px;
+	width: 750px;
+	height: 600px;
+
+}
+
+.innercontruler{
+    border-style: solid;
+    border-width: 1px;
+	margin-left: 350px;
+	margin-top: 0px;
+	height: 600px;
+	width: 0px;
+}
+
+/*Personal Information*/
+.personalinfo{
+	padding-bottom:0px;
+	padding-top:0px;
+	margin-top:-580px;
+	margin-left:320px;
+	width: 180px;
+	height:20px;
+	border-style: solid;
+    border-width: 3px;
+	background-color:  #00cc99;
+	color:white;
+	border-color:black;
+	text-shadow: 1px 2px #ff0000;
+    z-index: 10;
+	position: relative;   
+    font-weight: bold;
+
+
+}
+
+.contpersonalinfo{
+	padding-bottom:0px;
+	padding-top:0px;
+	margin-top:-3px;
+	margin-left:310px;
+	width: 280px;
+	height:80px;
+	border-style: solid;
+    border-width: 3px;
+	border-color:black;
+	border-top-color: #009966;
+	border-left-color:#009966;
+
+}
+
+.pname{
+	margin-top:10px;
+	margin-left:5px;
+	font-weight: bold;
+
+}
+
+
+/*MORTAGE & PROPERTY*/
+.propertyoption{
+
+}
+.propertytitle{
+	padding-bottom:0px;
+	padding-top:0px;
+	margin-top:-15px;
+	margin-left:5px;
+	width: 260px;
+	height:20px;
+	border-style: solid;
+    border-width: 3px;
+	background-color:  #00cc99;
+	color:white;
+	border-color:black;
+	text-shadow: 1px 2px #ff0000;
+    z-index: 10;
+	position: relative;   
+	font-weight: bold;
+
+
+}
+
+.propertycont{
+	padding-bottom:0px;
+	margin-top:35px;
+	margin-left:-5px;
+	width: 310px;
+	height:290px;
+	border-style: solid;
+    border-width: 3px;
+	border-color:black;
+	border-top-color: #009966;
+	border-left-color:#009966;
+	font-weight: bold;
+
+}
+
+.location{
+margin-top:7px;
+}
+
+	
+.propertyincome{
+	margin-left:150px;
+	margin-top:-83px;
+}
+
+.propertytype{
+	margin-top:-4px;
+	margin-left:3px;
+	width: 310px;
+	height:50px;
+	font-weight:normal;
+	font-size:12px;
+	}
+	
+/*Special instructions*/
+.specins{
+	margin-left:0px;
+	width: 170px;
+	margin-top:-38px;
+	height:30px;
+	border-style: solid;
+    border-width: 3px;
+	background-color:Khaki;
+	color:white;
+	border-color:black;
+	text-shadow: 1px 2px #ff0000;
+    z-index: 10;
+	background-color:  #00cc99;
+  position: relative;  
+}	
+
+.contspec{
+	padding-bottom:0px;
+	margin-left:-14px;
+	margin-top:100px;
+	width: 333px;
+	height:60px;
+	border-style: solid;
+    border-width: 3px;
+	border-color:black;
+	border-top-color: #009966;
+	border-left-color:#009966;
+}
+
+.special, textarea{
+	margin-left:0px;
+	margin-top:1px;
+	background-color: #009966
+}
+
+/*Monthly Payment*/
+.monthlypayment{
+	margin-top:-438px;
+	margin-left:370px;
+	width: 240px;
+	height:20px;
+	border-style: solid;
+    border-width: 3px;
+	background-color:  #00cc99;
+	color:white;
+	border-color:black;
+	text-shadow: 1px 2px #ff0000;
+    z-index: 10;
+	position: relative;   
+	font-weight: bold;
+}
+
+.monthlycont{
+	margin-left:356px;
+	margin-top:-2px;
+	border-style: solid;
+    border-width: 3px;
+	width:340px;
+	height:150px;
+	border-top-color: #009966;
+	border-left-color:#009966;
+}
+
+.monthlycont input{
+	background-color:  #00cc00;
+	border-color:#000000;
+	border-style:double;
+	margin-top:90px;
+	margin-left:50px;
+}
+
+.paymentbutton {
+	margin-left:20px;
+	margin-top:15px;
+	border-width:5px;
+
+}
+.paymentbutton input{
+	margin-top:-50px;
+	border-width:5px;
+}
+
+.paymentoutput{
+	margin-top:40px;
+	margin-left:40px;
+}
+
+/*Mortage Details */
+.contfixer{
+	margin-top:150px;
+	margin-left:570px;
+}
+
+.request input{
+	color:#00ffff;
+	font-weight:bold;
+	background: -webkit-linear-gradient( #3366cc, #336699,  #330099);
+	margin-left:50px;
+}
+
+.ruler3{
+    border-style: solid;
+    border-width: 1px;	
+	width: 290px;
+	margin-left: -311px;
+	height:10px;
+	border-color:#003300;
+	background-color:#003300;
+}
+
+.detailscont{
+	margin-left:2px;
+	margin-top:-2px;
+	border-style: solid;
+    border-width: 3px;
+	width:280px;
+	height:210px;
+	border-top-color: #009966;
+	border-left-color:#009966;
+	font-size:18px;
+	font-weight:bold;
+}
+
+.detailstitle{
+	margin-top:10px;
+	margin-left:6px;
+	width: 140px;
+	height:20px;
+	border-style: solid;
+    border-width: 3px;
+	background-color:  #00cc99;
+	color:white;
+	border-color:black;
+	text-shadow: 1px 2px #ff0000;
+    z-index: 10;
+	position: relative;   
+	 font-weight: bold;
+
+}
+
+/*Right Bottom Area 340px*/
+.errormsg{
+	margin-left:356px;
+	margin-top:5px;
+	border-style: solid;
+    border-width: 3px;
+	width:340px;
+	height:340px;
+	border-top-color: #009966;
+	border-left-color:#009966;
+	font-size:18px;
+	font-weight:bold;
+}
+
+/** MISC **//
+input[type='checkbox'] {
+  margin-left:20px;
+}
+
+testMsg{
+	color:white;
+	font-weight:bold;
+}
+
+footer{
+	background:black;
+	text-align:center;
+	padding: 3px;
+	display:block;
+	color:white;
+	font-size:12px;
+	margin-top:100px;
+	margin-left:-316px;
+	width:1060px;
+}
