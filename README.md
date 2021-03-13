@@ -5,4 +5,4 @@ Final project consisted of creating a web app which relied on using HTML, CSS, J
 
 Application was previously hosted on Heroku.
 
-I am uploading these projects to contribute to my portfolio. Feel free to reference this repo but please do not plagiarize! It will only get you in trouble!
+I am uploading this projects to contribute to my portfolio. Feel free to reference this repo but please do not plagiarize! It will only get you in trouble!
